@@ -1,5 +1,5 @@
 class Ralph < Formula
-  desc "Ralph loop for Claude Code: fresh claude -p per iteration, git decides what shipped"
+  desc "Long-running Claude Code loop: fresh claude -p each iteration, gated by git"
   homepage "https://github.com/vkuprin/ralph-harness"
   url "https://github.com/vkuprin/ralph-harness/archive/refs/tags/v1.0.0.tar.gz"
   sha256 "42b8dde838e009e546bdbda8aeccbadef67fb2731ecc6d53710f9281d6abaad4"
