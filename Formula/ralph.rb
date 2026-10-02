@@ -1,8 +1,8 @@
 class Ralph < Formula
   desc "Long-running Claude Code loop: fresh claude -p each iteration, gated by git"
   homepage "https://github.com/vkuprin/ralph-harness"
-  url "https://github.com/vkuprin/ralph-harness/archive/refs/tags/v2.1.2.tar.gz"
-  sha256 "ece15075a46df7e044abec9f63956508f1463e4c569ab86c40ccfedd8da19b56"
+  url "https://github.com/vkuprin/ralph-harness/archive/refs/tags/v2.1.3.tar.gz"
+  sha256 "240a0702f751f29f4a536097b0ef2b58cb65493f14846fc4e3a7211654dc1ef7"
   license "MIT"
 
   depends_on "bun"
